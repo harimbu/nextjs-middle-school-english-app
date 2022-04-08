@@ -41,7 +41,7 @@ export default function Word({ kor, eng, done, show }) {
       <div className="flex items-center justify-between">
         <div>{isKor ? <div className="text-sm">{kor}</div> : ''}</div>
         <div className="flex items-center gap-2">
-          {isKor ? (
+          {!isKor ? (
             <EyeIcon className="w-5 h-5" onClick={handleKor} />
           ) : (
             <EyeOffIcon className="w-5 h-5" onClick={handleKor} />

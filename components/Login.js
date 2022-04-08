@@ -50,7 +50,7 @@ export default function Login() {
             <div>
               <Link href="/note">
                 <a className="text-xs bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-3 py-2 rounded-full">
-                  단어장 보기
+                  단어장
                 </a>
               </Link>
             </div>

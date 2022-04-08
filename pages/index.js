@@ -7,8 +7,6 @@ import { loginState } from '../store'
 export default function Home() {
   const loginUser = useRecoilValue(loginState)
 
-  console.log(loginUser)
-
   return (
     <div className="px-5 py-6">
       <Top />
