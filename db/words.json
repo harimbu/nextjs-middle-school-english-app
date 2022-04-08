@@ -1,0 +1,8004 @@
+{
+  "words": [
+    {
+      "range": "1 ~ 100",
+      "no": 1,
+      "eng": "culture",
+      "kor": "문화, 교양",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 2,
+      "eng": "experience",
+      "kor": "경험",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 3,
+      "eng": "education",
+      "kor": "교육(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 4,
+      "eng": "symbol",
+      "kor": "상징",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 5,
+      "eng": "effect",
+      "kor": "결과, 영향, 효과",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 6,
+      "eng": "liberty",
+      "kor": "자유",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 7,
+      "eng": "affair",
+      "kor": "사건, 일",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 8,
+      "eng": "comfort",
+      "kor": "안락, 위안",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 9,
+      "eng": "tradition",
+      "kor": "전통, 전설",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 10,
+      "eng": "subject",
+      "kor": "학과, 주제, 백성",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 11,
+      "eng": "object",
+      "kor": "물건, 목적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 12,
+      "eng": "source",
+      "kor": "출처, 근원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 13,
+      "eng": "revolution",
+      "kor": "혁명",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 14,
+      "eng": "pollution",
+      "kor": "오염",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 15,
+      "eng": "system",
+      "kor": "조직, 체계, 제도",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 16,
+      "eng": "triumph",
+      "kor": "승리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 17,
+      "eng": "respect",
+      "kor": "존경(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 18,
+      "eng": "communication",
+      "kor": "전달, 교통",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 19,
+      "eng": "foundation",
+      "kor": "기초, 근거, 설립",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 20,
+      "eng": "glory",
+      "kor": "영광",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 21,
+      "eng": "situation",
+      "kor": "위치, 상황",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 22,
+      "eng": "competition",
+      "kor": "경쟁",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 23,
+      "eng": "prairie",
+      "kor": "대초원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 24,
+      "eng": "effort",
+      "kor": "노력",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 25,
+      "eng": "section",
+      "kor": "부분, 구역",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 26,
+      "eng": "rein",
+      "kor": "고삐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 27,
+      "eng": "solution",
+      "kor": "해결, 용해",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 28,
+      "eng": "honor",
+      "kor": "명예, 경의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 29,
+      "eng": "unity",
+      "kor": "통일, 일치",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 30,
+      "eng": "population",
+      "kor": "인구",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 31,
+      "eng": "direction",
+      "kor": "방향, 지시",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 32,
+      "eng": "dialogue",
+      "kor": "대화",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 33,
+      "eng": "republic",
+      "kor": "공화국",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 34,
+      "eng": "method",
+      "kor": "방법",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 35,
+      "eng": "increase",
+      "kor": "증가(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 36,
+      "eng": "decrease",
+      "kor": "감소(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 37,
+      "eng": "amount",
+      "kor": "총액, 양",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 38,
+      "eng": "ancestor",
+      "kor": "조상, 선조",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 39,
+      "eng": "voyage",
+      "kor": "항해, 여행",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 40,
+      "eng": "sculpture",
+      "kor": "조각",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 41,
+      "eng": "instrument",
+      "kor": "기구, 악기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 42,
+      "eng": "figure",
+      "kor": "모습, 인물, 숫자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 43,
+      "eng": "activity",
+      "kor": "활동",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 44,
+      "eng": "cause",
+      "kor": "원인, 이유",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 45,
+      "eng": "worth",
+      "kor": "가치",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 46,
+      "eng": "accident",
+      "kor": "사고",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 47,
+      "eng": "adventure",
+      "kor": "모험",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 48,
+      "eng": "view",
+      "kor": "경치, 의견",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 49,
+      "eng": "relative",
+      "kor": "친척, 상대적인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 50,
+      "eng": "superstition",
+      "kor": "미신",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 51,
+      "eng": "interest",
+      "kor": "이익, 흥미",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 52,
+      "eng": "funeral",
+      "kor": "장례식",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 53,
+      "eng": "senior",
+      "kor": "선배, 연장자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 54,
+      "eng": "junior",
+      "kor": "후배, 연소자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 55,
+      "eng": "democracy",
+      "kor": "민주주의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 56,
+      "eng": "general",
+      "kor": "육군 대장(장군)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 57,
+      "eng": "admiral",
+      "kor": "해군 대장(제독)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 58,
+      "eng": "edge",
+      "kor": "날, 가장자리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 59,
+      "eng": "biology",
+      "kor": "생물학",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 60,
+      "eng": "danger",
+      "kor": "위험",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 61,
+      "eng": "advice",
+      "kor": "충고",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 62,
+      "eng": "practice",
+      "kor": "연습, 실행",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 63,
+      "eng": "mammal",
+      "kor": "포유동물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 64,
+      "eng": "grade",
+      "kor": "등급, 학년",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 65,
+      "eng": "score",
+      "kor": "득점",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 66,
+      "eng": "pause",
+      "kor": "중지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 67,
+      "eng": "pronunciation",
+      "kor": "발음",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 68,
+      "eng": "stress",
+      "kor": "압박, 강세",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 69,
+      "eng": "contest",
+      "kor": "경쟁, 경기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 70,
+      "eng": "horizon",
+      "kor": "수평선, 지평선",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 71,
+      "eng": "principal",
+      "kor": "교장, 주요한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 72,
+      "eng": "might",
+      "kor": "힘, may 과거",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 73,
+      "eng": "trouble",
+      "kor": "근심, 고생",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 74,
+      "eng": "scar",
+      "kor": "상처, 흔적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 75,
+      "eng": "balance",
+      "kor": "균형",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 76,
+      "eng": "proverb",
+      "kor": "속담, 격언",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 77,
+      "eng": "semester",
+      "kor": "학기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 78,
+      "eng": "election",
+      "kor": "선거",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 79,
+      "eng": "inning",
+      "kor": "회",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 80,
+      "eng": "hollow",
+      "kor": "구멍, 속이 빈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 81,
+      "eng": "degree",
+      "kor": "도(度), 정도",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 82,
+      "eng": "cemetery",
+      "kor": "묘지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 83,
+      "eng": "relay",
+      "kor": "교대(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 84,
+      "eng": "spot",
+      "kor": "장소, 현장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 85,
+      "eng": "exchange",
+      "kor": "교환(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 86,
+      "eng": "merchant",
+      "kor": "상인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 87,
+      "eng": "saying",
+      "kor": "격언",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 88,
+      "eng": "refrigerator",
+      "kor": "냉장고",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 89,
+      "eng": "crack",
+      "kor": "갈라진 금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 90,
+      "eng": "judge",
+      "kor": "재판관",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 91,
+      "eng": "slave",
+      "kor": "노예",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 92,
+      "eng": "settler",
+      "kor": "이주민, 정착민",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 93,
+      "eng": "fare",
+      "kor": "요금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 94,
+      "eng": "gesture",
+      "kor": "몸짓, 손짓",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 95,
+      "eng": "planet",
+      "kor": "행성",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 96,
+      "eng": "type",
+      "kor": "유형, 활자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 97,
+      "eng": "secretary",
+      "kor": "비서",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 98,
+      "eng": "devil",
+      "kor": "악마",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 99,
+      "eng": "scholar",
+      "kor": "학자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "1 ~ 100",
+      "no": 100,
+      "eng": "pardon",
+      "kor": "용서(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 101,
+      "eng": "atom",
+      "kor": "원자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 102,
+      "eng": "poet",
+      "kor": "시인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 103,
+      "eng": "petal",
+      "kor": "꽃잎",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 104,
+      "eng": "chance",
+      "kor": "기회, 가능성",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 105,
+      "eng": "mind",
+      "kor": "마음, 생각",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 106,
+      "eng": "climate",
+      "kor": "기후, 풍토",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 107,
+      "eng": "suburb",
+      "kor": "교외",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 108,
+      "eng": "throat",
+      "kor": "목구멍",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 109,
+      "eng": "voice",
+      "kor": "목소리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 110,
+      "eng": "valley",
+      "kor": "골짜기, 계곡",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 111,
+      "eng": "Puritan",
+      "kor": "청교도",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 112,
+      "eng": "feather",
+      "kor": "깃털",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 113,
+      "eng": "amateur",
+      "kor": "비전문가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 114,
+      "eng": "nation",
+      "kor": "국가, 국민",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 115,
+      "eng": "puzzle",
+      "kor": "수수께끼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 116,
+      "eng": "riddle",
+      "kor": "수수께끼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 117,
+      "eng": "rear",
+      "kor": "뒤쪽",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 118,
+      "eng": "battle",
+      "kor": "전투",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 119,
+      "eng": "laundry",
+      "kor": "세탁소",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 120,
+      "eng": "shower",
+      "kor": "소나기, 샤워",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 121,
+      "eng": "navy",
+      "kor": "해군",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 122,
+      "eng": "Mars",
+      "kor": "화성",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 123,
+      "eng": "gallery",
+      "kor": "화랑, 미술관",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 124,
+      "eng": "guest",
+      "kor": "손님",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 125,
+      "eng": "folk",
+      "kor": "사람들, 가족",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 126,
+      "eng": "problem",
+      "kor": "문제",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 127,
+      "eng": "jewel",
+      "kor": "보석",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 128,
+      "eng": "garage",
+      "kor": "차고",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 129,
+      "eng": "fault",
+      "kor": "결점, 잘못",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 130,
+      "eng": "lantern",
+      "kor": "랜턴, 초롱불",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 131,
+      "eng": "import",
+      "kor": "수입",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 132,
+      "eng": "angle",
+      "kor": "각도, 관점",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 133,
+      "eng": "match",
+      "kor": "시합",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 134,
+      "eng": "stripe",
+      "kor": "줄무늬",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 135,
+      "eng": "pulse",
+      "kor": "맥박",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 136,
+      "eng": "powder",
+      "kor": "가루, 화약",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 137,
+      "eng": "flood",
+      "kor": "홍수, 넘치다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 138,
+      "eng": "bush",
+      "kor": "수풀, 덤불",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 139,
+      "eng": "branch",
+      "kor": "가지, 지점",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 140,
+      "eng": "hero",
+      "kor": "영웅, 주인공",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 141,
+      "eng": "heaven",
+      "kor": "하늘, 천국",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 142,
+      "eng": "exit",
+      "kor": "출구",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 143,
+      "eng": "beast",
+      "kor": "짐승",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 144,
+      "eng": "century",
+      "kor": "세기, 100년",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 145,
+      "eng": "coeducation",
+      "kor": "남녀 공학",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 146,
+      "eng": "twin",
+      "kor": "쌍둥이의 한 사람",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 147,
+      "eng": "wound",
+      "kor": "상처, 부상",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 148,
+      "eng": "metal",
+      "kor": "금속",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 149,
+      "eng": "insect",
+      "kor": "곤충",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 150,
+      "eng": "track",
+      "kor": "지나간 자국",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 151,
+      "eng": "leak",
+      "kor": "새다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 152,
+      "eng": "behave",
+      "kor": "행동하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 153,
+      "eng": "wrap",
+      "kor": "싸다, 포장하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 154,
+      "eng": "locate",
+      "kor": "위치하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 155,
+      "eng": "charge",
+      "kor": "청구하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 156,
+      "eng": "review",
+      "kor": "복습하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 157,
+      "eng": "refuse",
+      "kor": "거절하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 158,
+      "eng": "complain",
+      "kor": "불평하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 159,
+      "eng": "remain",
+      "kor": "남다, 유적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 160,
+      "eng": "warn",
+      "kor": "경고하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 161,
+      "eng": "bend",
+      "kor": "구부리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 162,
+      "eng": "suffer",
+      "kor": "겪다, 괴로워하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 163,
+      "eng": "whisper",
+      "kor": "속삭이다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 164,
+      "eng": "prepare",
+      "kor": "준비하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 165,
+      "eng": "roar",
+      "kor": "으르렁거리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 166,
+      "eng": "float",
+      "kor": "뜨다, 띄우다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 167,
+      "eng": "drag",
+      "kor": "질질 끌다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 168,
+      "eng": "overhear",
+      "kor": "엿듣다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 169,
+      "eng": "slide",
+      "kor": "미끄러지다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 170,
+      "eng": "suck",
+      "kor": "빨다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 171,
+      "eng": "bother",
+      "kor": "괴롭히다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 172,
+      "eng": "deal",
+      "kor": "분배, 거래",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 173,
+      "eng": "treat",
+      "kor": "다루다, 대우",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 174,
+      "eng": "destroy",
+      "kor": "파괴하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 175,
+      "eng": "accept",
+      "kor": "받아들이다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 176,
+      "eng": "depend",
+      "kor": "의지하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 177,
+      "eng": "nod",
+      "kor": "끄덕이다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 178,
+      "eng": "remove",
+      "kor": "옮기다, 치우다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 179,
+      "eng": "beat",
+      "kor": "때리다, 이기다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 180,
+      "eng": "clap",
+      "kor": "(손뼉을) 치다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 181,
+      "eng": "feed",
+      "kor": "기르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 182,
+      "eng": "obtain",
+      "kor": "얻다, 획득하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 183,
+      "eng": "drown",
+      "kor": "물에 빠지다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 184,
+      "eng": "remind",
+      "kor": "생각나게 하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 185,
+      "eng": "occur",
+      "kor": "일어나다, 생각나다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 186,
+      "eng": "ache",
+      "kor": "아프다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 187,
+      "eng": "repeat",
+      "kor": "되풀이하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 188,
+      "eng": "attend",
+      "kor": "참석하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 189,
+      "eng": "sigh",
+      "kor": "한숨 쉬다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 190,
+      "eng": "pray",
+      "kor": "빌다, 기도하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 191,
+      "eng": "press",
+      "kor": "누르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 192,
+      "eng": "bear",
+      "kor": "낳다, 참다, 곰",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 193,
+      "eng": "follow",
+      "kor": "따르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 194,
+      "eng": "hate",
+      "kor": "미워하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 195,
+      "eng": "frighten",
+      "kor": "놀라게 하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 196,
+      "eng": "shout",
+      "kor": "외치다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 197,
+      "eng": "mention",
+      "kor": "말하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 198,
+      "eng": "waste",
+      "kor": "낭비하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 199,
+      "eng": "borrow",
+      "kor": "빌리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "101 ~ 200",
+      "no": 200,
+      "eng": "complete",
+      "kor": "완성하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 201,
+      "eng": "tiny",
+      "kor": "아주 작은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 202,
+      "eng": "fair",
+      "kor": "공평한, 아름다운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 203,
+      "eng": "tough",
+      "kor": "단단한, 질긴",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 204,
+      "eng": "foreign",
+      "kor": "외국의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 205,
+      "eng": "modern",
+      "kor": "현대의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 206,
+      "eng": "expensive",
+      "kor": "값비싼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 207,
+      "eng": "harmful",
+      "kor": "해로운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 208,
+      "eng": "calm",
+      "kor": "평온한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 209,
+      "eng": "special",
+      "kor": "특별한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 210,
+      "eng": "steady",
+      "kor": "확고한, 착실한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 211,
+      "eng": "hay",
+      "kor": "건초",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 212,
+      "eng": "revival",
+      "kor": "부활",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 213,
+      "eng": "million",
+      "kor": "백만, 다수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 214,
+      "eng": "crop",
+      "kor": "농작물, 수확",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 215,
+      "eng": "shade",
+      "kor": "그늘",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 216,
+      "eng": "company",
+      "kor": "친구, 교제, 회사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 217,
+      "eng": "canal",
+      "kor": "운하",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 218,
+      "eng": "wagon",
+      "kor": "짐마차",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 219,
+      "eng": "fact",
+      "kor": "사실",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 220,
+      "eng": "joy",
+      "kor": "기쁨",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 221,
+      "eng": "concert",
+      "kor": "음악회, 연주회",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 222,
+      "eng": "rule",
+      "kor": "규칙, 지배하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 223,
+      "eng": "suitcase",
+      "kor": "여행 가방",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 224,
+      "eng": "weight",
+      "kor": "무게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 225,
+      "eng": "hurray",
+      "kor": "만세!",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 226,
+      "eng": "mail",
+      "kor": "우편",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 227,
+      "eng": "log",
+      "kor": "통나무",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 228,
+      "eng": "hut",
+      "kor": "오두막집",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 229,
+      "eng": "tax",
+      "kor": "세금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 230,
+      "eng": "dye",
+      "kor": "물들이다, 물감",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 231,
+      "eng": "earnings",
+      "kor": "돈벌이",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 232,
+      "eng": "flame",
+      "kor": "불꽃",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 233,
+      "eng": "shape",
+      "kor": "모양",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 234,
+      "eng": "chest",
+      "kor": "가슴, 상자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 235,
+      "eng": "chain",
+      "kor": "사슬",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 236,
+      "eng": "cost",
+      "kor": "비용(이 들다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 237,
+      "eng": "coast",
+      "kor": "해안",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 238,
+      "eng": "circle",
+      "kor": "원, 집단",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 239,
+      "eng": "heart",
+      "kor": "심장, 마음",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 240,
+      "eng": "nature",
+      "kor": "자연, 성질",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 241,
+      "eng": "fever",
+      "kor": "열, 열병",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 242,
+      "eng": "tongue",
+      "kor": "혀, 언어",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 243,
+      "eng": "trust",
+      "kor": "신용, 신뢰",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 244,
+      "eng": "whisker",
+      "kor": "구레나룻",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 245,
+      "eng": "prison",
+      "kor": "감옥",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 246,
+      "eng": "blood",
+      "kor": "피, 혈액",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 247,
+      "eng": "loaf",
+      "kor": "빵 한 덩어리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 248,
+      "eng": "list",
+      "kor": "목록",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 249,
+      "eng": "fence",
+      "kor": "울타리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 250,
+      "eng": "enemy",
+      "kor": "적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 251,
+      "eng": "giraffe",
+      "kor": "기린",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 252,
+      "eng": "hawk",
+      "kor": "매",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 253,
+      "eng": "pigeon",
+      "kor": "비둘기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 254,
+      "eng": "bowl",
+      "kor": "사발, 그릇",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 255,
+      "eng": "scene",
+      "kor": "장면, 현장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 256,
+      "eng": "life",
+      "kor": "생명, 생활, 일생",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 257,
+      "eng": "earth",
+      "kor": "지구, 땅, 흙",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 258,
+      "eng": "pill",
+      "kor": "알약",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 259,
+      "eng": "math",
+      "kor": "수학",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 260,
+      "eng": "ocean",
+      "kor": "대양",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 261,
+      "eng": "price",
+      "kor": "가격",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 262,
+      "eng": "row",
+      "kor": "줄, 열",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 263,
+      "eng": "schedule",
+      "kor": "예정표",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 264,
+      "eng": "machine",
+      "kor": "기계",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 265,
+      "eng": "route",
+      "kor": "길",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 266,
+      "eng": "ivy",
+      "kor": "담쟁이덩굴",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 267,
+      "eng": "gift",
+      "kor": "선물, 재능",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 268,
+      "eng": "candle",
+      "kor": "양초",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 269,
+      "eng": "joke",
+      "kor": "농담",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 270,
+      "eng": "art",
+      "kor": "예술, 미술, 기술",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 271,
+      "eng": "corn",
+      "kor": "곡물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 272,
+      "eng": "pet",
+      "kor": "애완동물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 273,
+      "eng": "robber",
+      "kor": "강도",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 274,
+      "eng": "cheek",
+      "kor": "뺨, 볼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 275,
+      "eng": "clerk",
+      "kor": "사무원, 점원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 276,
+      "eng": "cookie",
+      "kor": "쿠키",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 277,
+      "eng": "army",
+      "kor": "육군, 군대",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 278,
+      "eng": "nurse",
+      "kor": "간호사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 279,
+      "eng": "master",
+      "kor": "주인, 정복하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 280,
+      "eng": "lock",
+      "kor": "자물쇠",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 281,
+      "eng": "moment",
+      "kor": "순간",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 282,
+      "eng": "sheet",
+      "kor": "침대시트, 한 장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 283,
+      "eng": "monk",
+      "kor": "승려",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 284,
+      "eng": "teenager",
+      "kor": "십대 소년소녀",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 285,
+      "eng": "closet",
+      "kor": "벽장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 286,
+      "eng": "handle",
+      "kor": "손잡이",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 287,
+      "eng": "guide",
+      "kor": "안내자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 288,
+      "eng": "bar",
+      "kor": "막대기, 빗장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 289,
+      "eng": "ostrich",
+      "kor": "타조",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 290,
+      "eng": "knee",
+      "kor": "무릎",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 291,
+      "eng": "cricket",
+      "kor": "크리켓",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 292,
+      "eng": "deck",
+      "kor": "갑판",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 293,
+      "eng": "bit",
+      "kor": "조금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 294,
+      "eng": "silk",
+      "kor": "비단",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 295,
+      "eng": "jean",
+      "kor": "진바지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 296,
+      "eng": "cotton",
+      "kor": "솜, 목화",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 297,
+      "eng": "drum",
+      "kor": "북",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 298,
+      "eng": "sand",
+      "kor": "모래",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 299,
+      "eng": "shock",
+      "kor": "충격",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "201 ~ 300",
+      "no": 300,
+      "eng": "march",
+      "kor": "행진(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 301,
+      "eng": "turtle",
+      "kor": "거북",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 302,
+      "eng": "bay",
+      "kor": "만",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 303,
+      "eng": "holiday",
+      "kor": "휴일, 휴가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 304,
+      "eng": "center",
+      "kor": "중심",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 305,
+      "eng": "cash",
+      "kor": "현금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 306,
+      "eng": "wolf",
+      "kor": "늑대",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 307,
+      "eng": "operator",
+      "kor": "기사, 교환수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 308,
+      "eng": "fur",
+      "kor": "털, 모피",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 309,
+      "eng": "shore",
+      "kor": "물가, 해안",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 310,
+      "eng": "owl",
+      "kor": "올빼미",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 311,
+      "eng": "hunter",
+      "kor": "사냥꾼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 312,
+      "eng": "pumpkin",
+      "kor": "호박",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 313,
+      "eng": "handshake",
+      "kor": "악수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 314,
+      "eng": "bike",
+      "kor": "자전거",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 315,
+      "eng": "beach",
+      "kor": "해안",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 316,
+      "eng": "God",
+      "kor": "신",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 317,
+      "eng": "cough",
+      "kor": "기침",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 318,
+      "eng": "shell",
+      "kor": "조개, 껍질",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 319,
+      "eng": "business",
+      "kor": "사업, 일, 사무",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 320,
+      "eng": "restaurant",
+      "kor": "식당",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 321,
+      "eng": "sheep",
+      "kor": "양",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 322,
+      "eng": "officer",
+      "kor": "공무원, 장교",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 323,
+      "eng": "hometown",
+      "kor": "고향",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 324,
+      "eng": "coil",
+      "kor": "감긴 것, 코일",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 325,
+      "eng": "ceiling",
+      "kor": "천장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 326,
+      "eng": "turkey",
+      "kor": "칠면조",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 327,
+      "eng": "towel",
+      "kor": "수건",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 328,
+      "eng": "matter",
+      "kor": "물질, 일, 문제",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 329,
+      "eng": "chopstick",
+      "kor": "젓가락",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 330,
+      "eng": "seat",
+      "kor": "좌석, 앉히다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 331,
+      "eng": "board",
+      "kor": "판자, 뱃전",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 332,
+      "eng": "goal",
+      "kor": "목표, 골",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 333,
+      "eng": "drugstore",
+      "kor": "약국",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 334,
+      "eng": "rat",
+      "kor": "쥐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 335,
+      "eng": "butterfly",
+      "kor": "나비",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 336,
+      "eng": "flute",
+      "kor": "플루트",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 337,
+      "eng": "couple",
+      "kor": "한 쌍, 부부",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 338,
+      "eng": "beer",
+      "kor": "맥주",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 339,
+      "eng": "background",
+      "kor": "배경",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 340,
+      "eng": "bottle",
+      "kor": "병",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 341,
+      "eng": "body",
+      "kor": "몸, 신체",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 342,
+      "eng": "group",
+      "kor": "집단, 무리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 343,
+      "eng": "village",
+      "kor": "마을",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 344,
+      "eng": "beef",
+      "kor": "쇠고기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 345,
+      "eng": "load",
+      "kor": "짐, 부담",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 346,
+      "eng": "coin",
+      "kor": "동전, 화폐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 347,
+      "eng": "bookstore",
+      "kor": "서점",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 348,
+      "eng": "label",
+      "kor": "꼬리표, 상표",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 349,
+      "eng": "port",
+      "kor": "항구",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 350,
+      "eng": "quarter",
+      "kor": "4분의 1, 15분",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 351,
+      "eng": "mayor",
+      "kor": "시장(市長)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 352,
+      "eng": "piece",
+      "kor": "조각",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 353,
+      "eng": "fruit",
+      "kor": "과일",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 354,
+      "eng": "British",
+      "kor": "영국인, 영국의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 355,
+      "eng": "French",
+      "kor": "프랑스인, ~의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 356,
+      "eng": "German",
+      "kor": "독일인, 독일의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 357,
+      "eng": "sale",
+      "kor": "판매",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 358,
+      "eng": "rope",
+      "kor": "밧줄",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 359,
+      "eng": "umbrella",
+      "kor": "우산",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 360,
+      "eng": "dollar",
+      "kor": "달러",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 361,
+      "eng": "mistake",
+      "kor": "잘못, 착각",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 362,
+      "eng": "birth",
+      "kor": "출생",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 363,
+      "eng": "pilot",
+      "kor": "안내인, 조종사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 364,
+      "eng": "none",
+      "kor": "아무도 ~ 않다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 365,
+      "eng": "front",
+      "kor": "앞, 정면",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 366,
+      "eng": "present",
+      "kor": "현재, 선물, 출석한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 367,
+      "eng": "nickname",
+      "kor": "별명, 애칭",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 368,
+      "eng": "telephone",
+      "kor": "전화",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 369,
+      "eng": "pair",
+      "kor": "한 쌍",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 370,
+      "eng": "weather",
+      "kor": "날씨",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 371,
+      "eng": "dish",
+      "kor": "접시, 요리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 372,
+      "eng": "hole",
+      "kor": "구멍",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 373,
+      "eng": "plane",
+      "kor": "비행기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 374,
+      "eng": "living room",
+      "kor": "거실",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 375,
+      "eng": "gun",
+      "kor": "총",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 376,
+      "eng": "meat",
+      "kor": "고기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 377,
+      "eng": "cover",
+      "kor": "덮개, 포지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 378,
+      "eng": "grass",
+      "kor": "풀, 잔디",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 379,
+      "eng": "watch",
+      "kor": "손목시계, 주의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 380,
+      "eng": "word",
+      "kor": "낱말",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 381,
+      "eng": "explain",
+      "kor": "설명하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 382,
+      "eng": "wear",
+      "kor": "입다, 착용하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 383,
+      "eng": "amuse",
+      "kor": "즐겁게 하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 384,
+      "eng": "suppose",
+      "kor": "가정, 상상",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 385,
+      "eng": "leap",
+      "kor": "뛰다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 386,
+      "eng": "bury",
+      "kor": "묻다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 387,
+      "eng": "engage",
+      "kor": "약속, 고용",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 388,
+      "eng": "sow",
+      "kor": "씨를 뿌리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 389,
+      "eng": "lift",
+      "kor": "들어올리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 390,
+      "eng": "bow",
+      "kor": "절하다, 인사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 391,
+      "eng": "rub",
+      "kor": "비비다, 문지르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 392,
+      "eng": "bite",
+      "kor": "물다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 393,
+      "eng": "vote",
+      "kor": "투표하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 394,
+      "eng": "hop",
+      "kor": "뛰다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 395,
+      "eng": "imagine",
+      "kor": "상상, 생각",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 396,
+      "eng": "allow",
+      "kor": "허락하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 397,
+      "eng": "offer",
+      "kor": "제공하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 398,
+      "eng": "gain",
+      "kor": "얻다, 이기다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 399,
+      "eng": "alarm",
+      "kor": "놀람, 경보",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "301 ~ 400",
+      "no": 400,
+      "eng": "obey",
+      "kor": "복종하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 401,
+      "eng": "dive",
+      "kor": "(물로) 뛰어들다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 402,
+      "eng": "win",
+      "kor": "이기다, 얻다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 403,
+      "eng": "ride",
+      "kor": "타다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 404,
+      "eng": "turn",
+      "kor": "돌다, 변화하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 405,
+      "eng": "need",
+      "kor": "필요로 하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 406,
+      "eng": "build",
+      "kor": "짓다, 건축하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 407,
+      "eng": "hurry",
+      "kor": "서두르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 408,
+      "eng": "return",
+      "kor": "돌아가다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 409,
+      "eng": "believe",
+      "kor": "믿다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 410,
+      "eng": "surprise",
+      "kor": "놀라다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 411,
+      "eng": "gather",
+      "kor": "모으다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 412,
+      "eng": "throw",
+      "kor": "던지다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 413,
+      "eng": "raise",
+      "kor": "올리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 414,
+      "eng": "count",
+      "kor": "세다, 계산하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 415,
+      "eng": "smell",
+      "kor": "냄새 맡다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 416,
+      "eng": "spend",
+      "kor": "소비하다, 지내다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 417,
+      "eng": "pitch",
+      "kor": "던지다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 418,
+      "eng": "pop",
+      "kor": "펑, 탁 튀다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 419,
+      "eng": "blow",
+      "kor": "불다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 420,
+      "eng": "miss",
+      "kor": "놓치다, 그리워하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 421,
+      "eng": "excuse",
+      "kor": "용서, 변명",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 422,
+      "eng": "hit",
+      "kor": "치다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 423,
+      "eng": "tie",
+      "kor": "매다, 묶다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 424,
+      "eng": "touch",
+      "kor": "닿다, 감동시키다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 425,
+      "eng": "stay",
+      "kor": "머무르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 426,
+      "eng": "enjoy",
+      "kor": "즐기다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 427,
+      "eng": "lose",
+      "kor": "잃다, 지다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 428,
+      "eng": "close",
+      "kor": "닫다, 감다, 가까운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 429,
+      "eng": "arrive",
+      "kor": "도착하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 430,
+      "eng": "travel",
+      "kor": "여행하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 431,
+      "eng": "reach",
+      "kor": "도착하다, 닿다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 432,
+      "eng": "hold",
+      "kor": "쥐다, 개최하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 433,
+      "eng": "worry",
+      "kor": "걱정하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 434,
+      "eng": "marry",
+      "kor": "결혼하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 435,
+      "eng": "expect",
+      "kor": "기대하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 436,
+      "eng": "understand",
+      "kor": "이해하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 437,
+      "eng": "become",
+      "kor": "~이 되다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 438,
+      "eng": "break",
+      "kor": "부수다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 439,
+      "eng": "smoke",
+      "kor": "담배 피우다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 440,
+      "eng": "lend",
+      "kor": "빌려 주다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 441,
+      "eng": "shut",
+      "kor": "닫다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 442,
+      "eng": "sleep",
+      "kor": "자다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 443,
+      "eng": "lay",
+      "kor": "놓다, 눕히다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 444,
+      "eng": "paint",
+      "kor": "그리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 445,
+      "eng": "lead",
+      "kor": "인도하다, 지내다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 446,
+      "eng": "pass",
+      "kor": "지나가다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 447,
+      "eng": "hand",
+      "kor": "건네주다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 448,
+      "eng": "ancient",
+      "kor": "고대의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 449,
+      "eng": "nuclear",
+      "kor": "핵의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 450,
+      "eng": "necessary",
+      "kor": "필요한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 451,
+      "eng": "important",
+      "kor": "중요한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 452,
+      "eng": "stormy",
+      "kor": "폭풍의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 453,
+      "eng": "TRUE",
+      "kor": "진실한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 454,
+      "eng": "sad",
+      "kor": "슬픈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 455,
+      "eng": "gay",
+      "kor": "명랑한, 화려한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 456,
+      "eng": "merry",
+      "kor": "즐거운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 457,
+      "eng": "colorful",
+      "kor": "화려한, 다채로운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 458,
+      "eng": "wonderful",
+      "kor": "놀랄 만한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 459,
+      "eng": "peaceful",
+      "kor": "평화로운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 460,
+      "eng": "angry",
+      "kor": "화난",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 461,
+      "eng": "dry",
+      "kor": "마른",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 462,
+      "eng": "wrong",
+      "kor": "나쁜, 틀린",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 463,
+      "eng": "heavy",
+      "kor": "무거운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 464,
+      "eng": "quiet",
+      "kor": "조용한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 465,
+      "eng": "several",
+      "kor": "여럿의, 몇몇의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 466,
+      "eng": "alone",
+      "kor": "홀로, 다만 ~뿐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 467,
+      "eng": "crowded",
+      "kor": "붐비는, 혼잡한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 468,
+      "eng": "excited",
+      "kor": "흥분한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 469,
+      "eng": "alive",
+      "kor": "살아 있는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 470,
+      "eng": "brown",
+      "kor": "갈색의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 471,
+      "eng": "different",
+      "kor": "다른",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 472,
+      "eng": "difficult",
+      "kor": "어려운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 473,
+      "eng": "interesting",
+      "kor": "흥미 있는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 474,
+      "eng": "unlike",
+      "kor": "같지 않은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 475,
+      "eng": "least",
+      "kor": "가장 적은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 476,
+      "eng": "afraid",
+      "kor": "무서워하여",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 477,
+      "eng": "cool",
+      "kor": "시원한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 478,
+      "eng": "pretty",
+      "kor": "예쁜, 꽤",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 479,
+      "eng": "kind",
+      "kor": "친절한, 종류",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 480,
+      "eng": "sick",
+      "kor": "병든, 싫증난",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 481,
+      "eng": "useless",
+      "kor": "쓸모 없는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 482,
+      "eng": "busy",
+      "kor": "바쁜",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 483,
+      "eng": "early",
+      "kor": "이른, 일찍이",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 484,
+      "eng": "past",
+      "kor": "과거의, ~을 지나",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 485,
+      "eng": "dark",
+      "kor": "어두운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 486,
+      "eng": "cloudy",
+      "kor": "흐린",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 487,
+      "eng": "short",
+      "kor": "짧은, 작은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 488,
+      "eng": "low",
+      "kor": "낮은, 낮게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 489,
+      "eng": "sincerely",
+      "kor": "진심으로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 490,
+      "eng": "fortunately",
+      "kor": "다행히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 491,
+      "eng": "finally",
+      "kor": "마침내",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 492,
+      "eng": "immediately",
+      "kor": "곧, 즉시",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 493,
+      "eng": "especially",
+      "kor": "특별히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 494,
+      "eng": "else",
+      "kor": "그 밖에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 495,
+      "eng": "actually",
+      "kor": "실제로, 정말로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 496,
+      "eng": "hardly",
+      "kor": "거의 ~ 아니다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 497,
+      "eng": "otherwise",
+      "kor": "그렇지 않으면",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 498,
+      "eng": "tightly",
+      "kor": "단단히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 499,
+      "eng": "recently",
+      "kor": "최근에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "401 ~ 500",
+      "no": 500,
+      "eng": "rapidly",
+      "kor": "빨리, 신속히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 501,
+      "eng": "habit",
+      "kor": "습관, 버릇",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 502,
+      "eng": "wealth",
+      "kor": "재산, 부",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 503,
+      "eng": "treasure",
+      "kor": "보물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 504,
+      "eng": "universe",
+      "kor": "우주, 전 세계",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 505,
+      "eng": "adult",
+      "kor": "어른",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 506,
+      "eng": "feast",
+      "kor": "축제, 향연",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 507,
+      "eng": "resource",
+      "kor": "자원, 수단",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 508,
+      "eng": "ruin",
+      "kor": "파멸, 폐허",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 509,
+      "eng": "monument",
+      "kor": "기념비, 기념물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 510,
+      "eng": "information",
+      "kor": "정보, 지식, 통지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 511,
+      "eng": "appetite",
+      "kor": "식욕",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 512,
+      "eng": "unification",
+      "kor": "통일",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 513,
+      "eng": "mystery",
+      "kor": "신비",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 514,
+      "eng": "thermometer",
+      "kor": "온도계",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 515,
+      "eng": "burden",
+      "kor": "짐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 516,
+      "eng": "series",
+      "kor": "연속, 시리즈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 517,
+      "eng": "oath",
+      "kor": "맹세, 선서",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 518,
+      "eng": "appointment",
+      "kor": "임명, 약속",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 519,
+      "eng": "clue",
+      "kor": "실마리, 단서",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 520,
+      "eng": "debt",
+      "kor": "빚, 은혜",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 521,
+      "eng": "hydrogen",
+      "kor": "수소",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 522,
+      "eng": "control",
+      "kor": "통제, 지배",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 523,
+      "eng": "uniform",
+      "kor": "제복",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 524,
+      "eng": "design",
+      "kor": "계획, 설계",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 525,
+      "eng": "damage",
+      "kor": "손해, 손상",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 526,
+      "eng": "custom",
+      "kor": "관습, 습관",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 527,
+      "eng": "traffic",
+      "kor": "교통",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 528,
+      "eng": "sophomore",
+      "kor": "2학년생",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 529,
+      "eng": "temperature",
+      "kor": "온도, 체온",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 530,
+      "eng": "limit",
+      "kor": "제한, 한계",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 531,
+      "eng": "statue",
+      "kor": "조각상",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 532,
+      "eng": "furniture",
+      "kor": "가구",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 533,
+      "eng": "parade",
+      "kor": "행렬",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 534,
+      "eng": "public",
+      "kor": "공중, 공공의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 535,
+      "eng": "pilgrim",
+      "kor": "순례자, 청교도",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 536,
+      "eng": "greeting",
+      "kor": "인사, 축하",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 537,
+      "eng": "language",
+      "kor": "언어",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 538,
+      "eng": "opinion",
+      "kor": "의견",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 539,
+      "eng": "athlete",
+      "kor": "운동선수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 540,
+      "eng": "supply",
+      "kor": "공급(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 541,
+      "eng": "surface",
+      "kor": "표면(의)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 542,
+      "eng": "electricity",
+      "kor": "전기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 543,
+      "eng": "order",
+      "kor": "질서, 명령, 주문",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 544,
+      "eng": "spirit",
+      "kor": "정신",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 545,
+      "eng": "purpose",
+      "kor": "목적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 546,
+      "eng": "promise",
+      "kor": "약속, 가망",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 547,
+      "eng": "project",
+      "kor": "계획(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 548,
+      "eng": "government",
+      "kor": "정부, 정치",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 549,
+      "eng": "exercise",
+      "kor": "운동(하다), 연습",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 550,
+      "eng": "comparison",
+      "kor": "비교",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 551,
+      "eng": "kindergarten",
+      "kor": "유치원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 552,
+      "eng": "detective",
+      "kor": "탐정, 탐정의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 553,
+      "eng": "license",
+      "kor": "면허(증)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 554,
+      "eng": "palace",
+      "kor": "궁전",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 555,
+      "eng": "spade",
+      "kor": "삽",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 556,
+      "eng": "square",
+      "kor": "정사각형, 광장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 557,
+      "eng": "fountain-pen",
+      "kor": "만년필",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 558,
+      "eng": "harvest",
+      "kor": "수확, 추수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 559,
+      "eng": "tool",
+      "kor": "도구",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 560,
+      "eng": "sword",
+      "kor": "칼, 검",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 561,
+      "eng": "magazine",
+      "kor": "잡지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 562,
+      "eng": "stadium",
+      "kor": "경기장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 563,
+      "eng": "care",
+      "kor": "걱정, 조심",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 564,
+      "eng": "beauty",
+      "kor": "아름다움, 미인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 565,
+      "eng": "museum",
+      "kor": "박물관",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 566,
+      "eng": "sentence",
+      "kor": "문장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 567,
+      "eng": "memory",
+      "kor": "기억",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 568,
+      "eng": "delight",
+      "kor": "기쁨",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 569,
+      "eng": "passenger",
+      "kor": "승객",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 570,
+      "eng": "skill",
+      "kor": "솜씨, 숙련",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 571,
+      "eng": "journey",
+      "kor": "여행",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 572,
+      "eng": "ceremony",
+      "kor": "의식",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 573,
+      "eng": "hobby",
+      "kor": "취미",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 574,
+      "eng": "president",
+      "kor": "대통령, 회장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 575,
+      "eng": "address",
+      "kor": "주소, 연설",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 576,
+      "eng": "continent",
+      "kor": "대륙",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 577,
+      "eng": "mankind",
+      "kor": "인류, 인간",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 578,
+      "eng": "patient",
+      "kor": "환자, 참을성 있는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 579,
+      "eng": "site",
+      "kor": "위치, 장소",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 580,
+      "eng": "marble",
+      "kor": "대리석",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 581,
+      "eng": "stem",
+      "kor": "줄기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 582,
+      "eng": "slip",
+      "kor": "미끄러짐, 실수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 583,
+      "eng": "torch",
+      "kor": "횃불",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 584,
+      "eng": "composer",
+      "kor": "작곡가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 585,
+      "eng": "invader",
+      "kor": "침입자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 586,
+      "eng": "trick",
+      "kor": "계략, 장난",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 587,
+      "eng": "flight",
+      "kor": "비행",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 588,
+      "eng": "castle",
+      "kor": "성(城)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 589,
+      "eng": "envelope",
+      "kor": "봉투",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 590,
+      "eng": "pal",
+      "kor": "친구",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 591,
+      "eng": "vacation",
+      "kor": "휴가, 방학",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 592,
+      "eng": "desert",
+      "kor": "사막",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 593,
+      "eng": "event",
+      "kor": "사건",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 594,
+      "eng": "theater",
+      "kor": "극장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 595,
+      "eng": "stage",
+      "kor": "단계, 무대",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 596,
+      "eng": "error",
+      "kor": "잘못, 과오",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 597,
+      "eng": "area",
+      "kor": "지역, 면적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 598,
+      "eng": "base",
+      "kor": "기초, 토대",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 599,
+      "eng": "basement",
+      "kor": "지하실",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "501 ~ 600",
+      "no": 600,
+      "eng": "evil",
+      "kor": "악, (나쁜)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 601,
+      "eng": "deserve",
+      "kor": "~할 만하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 602,
+      "eng": "survive",
+      "kor": "살아남다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 603,
+      "eng": "create",
+      "kor": "창조하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 604,
+      "eng": "describe",
+      "kor": "묘사하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 605,
+      "eng": "select",
+      "kor": "고르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 606,
+      "eng": "hesitate",
+      "kor": "망설이다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 607,
+      "eng": "declare",
+      "kor": "선언, 발표",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 608,
+      "eng": "pretend",
+      "kor": "~인 체하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 609,
+      "eng": "struggle",
+      "kor": "싸우다, 노력",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 610,
+      "eng": "explore",
+      "kor": "탐험하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 611,
+      "eng": "astonish",
+      "kor": "놀라게 하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 612,
+      "eng": "disappoint",
+      "kor": "실망시키다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 613,
+      "eng": "attract",
+      "kor": "끌다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 614,
+      "eng": "celebrate",
+      "kor": "축하하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 615,
+      "eng": "explode",
+      "kor": "폭발하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 616,
+      "eng": "include",
+      "kor": "포함하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 617,
+      "eng": "protect",
+      "kor": "보호하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 618,
+      "eng": "introduce",
+      "kor": "소개, 도입",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 619,
+      "eng": "produce",
+      "kor": "생산하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 620,
+      "eng": "chase",
+      "kor": "쫓다, 추적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 621,
+      "eng": "scratch",
+      "kor": "할퀴다, 긁다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 622,
+      "eng": "crash",
+      "kor": "충돌하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 623,
+      "eng": "stare",
+      "kor": "응시하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 624,
+      "eng": "gaze",
+      "kor": "응시하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 625,
+      "eng": "scare",
+      "kor": "놀라게 하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 626,
+      "eng": "grab",
+      "kor": "움켜잡다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 627,
+      "eng": "guard",
+      "kor": "지키다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 628,
+      "eng": "discuss",
+      "kor": "토론하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 629,
+      "eng": "shrug",
+      "kor": "어깨를 으쓱하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 630,
+      "eng": "sniff",
+      "kor": "냄새 맡다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 631,
+      "eng": "scream",
+      "kor": "비명을 지르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 632,
+      "eng": "rid",
+      "kor": "제거하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 633,
+      "eng": "surround",
+      "kor": "둘러싸다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 634,
+      "eng": "cleave",
+      "kor": "쪼개다, 찢다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 635,
+      "eng": "carve",
+      "kor": "새기다, 조각",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 636,
+      "eng": "except",
+      "kor": "제외하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 637,
+      "eng": "invent",
+      "kor": "발명하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 638,
+      "eng": "search",
+      "kor": "찾다, 수색",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 639,
+      "eng": "abuse",
+      "kor": "남용, 학대",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 640,
+      "eng": "owe",
+      "kor": "힘입다, 빚지다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 641,
+      "eng": "bless",
+      "kor": "축복하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 642,
+      "eng": "graduate",
+      "kor": "졸업하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 643,
+      "eng": "replace",
+      "kor": "대신하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 644,
+      "eng": "collect",
+      "kor": "모으다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 645,
+      "eng": "upset",
+      "kor": "뒤엎다, 당황케",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 646,
+      "eng": "arrest",
+      "kor": "체포하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 647,
+      "eng": "prove",
+      "kor": "증명하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 648,
+      "eng": "yell",
+      "kor": "외치다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 649,
+      "eng": "howl",
+      "kor": "짖다, 울부짖다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 650,
+      "eng": "halt",
+      "kor": "멈추다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 651,
+      "eng": "excellent",
+      "kor": "뛰어난, 우수한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 652,
+      "eng": "competent",
+      "kor": "유능한, 충분한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 653,
+      "eng": "religious",
+      "kor": "종교적인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 654,
+      "eng": "favorite",
+      "kor": "아주 좋아하는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 655,
+      "eng": "entire",
+      "kor": "전체의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 656,
+      "eng": "primary",
+      "kor": "주요한, 초보의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 657,
+      "eng": "similar",
+      "kor": "비슷한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 658,
+      "eng": "precious",
+      "kor": "귀중한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 659,
+      "eng": "normal",
+      "kor": "정상의, 보통의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 660,
+      "eng": "popular",
+      "kor": "인기 있는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 661,
+      "eng": "compulsory",
+      "kor": "의무, 필수",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 662,
+      "eng": "curious",
+      "kor": "호기심이 강한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 663,
+      "eng": "independent",
+      "kor": "독립의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 664,
+      "eng": "intimate",
+      "kor": "친밀한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 665,
+      "eng": "delicious",
+      "kor": "맛있는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 666,
+      "eng": "valuable",
+      "kor": "귀중한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 667,
+      "eng": "grave",
+      "kor": "중대한, 무덤",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 668,
+      "eng": "elementary",
+      "kor": "초보의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 669,
+      "eng": "crazy",
+      "kor": "미친",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 670,
+      "eng": "contrary",
+      "kor": "반대의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 671,
+      "eng": "regular",
+      "kor": "규칙적인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 672,
+      "eng": "social",
+      "kor": "사회의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 673,
+      "eng": "straight",
+      "kor": "똑바른",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 674,
+      "eng": "noble",
+      "kor": "고귀한, 고상한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 675,
+      "eng": "anxious",
+      "kor": "걱정되는, 열망하는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 676,
+      "eng": "international",
+      "kor": "국제적인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 677,
+      "eng": "greedy",
+      "kor": "탐욕스러운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 678,
+      "eng": "stupid",
+      "kor": "어리석은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 679,
+      "eng": "silly",
+      "kor": "어리석은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 680,
+      "eng": "lonely",
+      "kor": "고독한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 681,
+      "eng": "dirty",
+      "kor": "더러운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 682,
+      "eng": "various",
+      "kor": "여러 가지의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 683,
+      "eng": "private",
+      "kor": "개인의, 사적인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 684,
+      "eng": "vain",
+      "kor": "헛된, 무익한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 685,
+      "eng": "sore",
+      "kor": "아픈, 상처",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 686,
+      "eng": "fierce",
+      "kor": "사나운, 맹렬한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 687,
+      "eng": "firm",
+      "kor": "굳은, 견고한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 688,
+      "eng": "solar",
+      "kor": "태양의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 689,
+      "eng": "smart",
+      "kor": "멋진, 영리한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 690,
+      "eng": "single",
+      "kor": "단 하나의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 691,
+      "eng": "diligent",
+      "kor": "부지런한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 692,
+      "eng": "serious",
+      "kor": "진지한, 심각한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 693,
+      "eng": "fresh",
+      "kor": "새로운, 신선한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 694,
+      "eng": "empty",
+      "kor": "빈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 695,
+      "eng": "mild",
+      "kor": "온화한, 상냥한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 696,
+      "eng": "amazing",
+      "kor": "놀라운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 697,
+      "eng": "charming",
+      "kor": "매력적인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 698,
+      "eng": "boring",
+      "kor": "지루한, 따분한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 699,
+      "eng": "giant",
+      "kor": "거인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "601 ~ 700",
+      "no": 700,
+      "eng": "huge",
+      "kor": "거대한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 701,
+      "eng": "thief",
+      "kor": "도둑",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 702,
+      "eng": "data",
+      "kor": "(복) 자료",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 703,
+      "eng": "soldier",
+      "kor": "군인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 704,
+      "eng": "musician",
+      "kor": "음악가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 705,
+      "eng": "capital",
+      "kor": "수도, 자본",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 706,
+      "eng": "course",
+      "kor": "진로, 과정",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 707,
+      "eng": "diary",
+      "kor": "일기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 708,
+      "eng": "squirrel",
+      "kor": "다람쥐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 709,
+      "eng": "dawn",
+      "kor": "새벽",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 710,
+      "eng": "shadow",
+      "kor": "그림자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 711,
+      "eng": "ditch",
+      "kor": "도랑",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 712,
+      "eng": "crew",
+      "kor": "승무원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 713,
+      "eng": "stomach",
+      "kor": "위",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 714,
+      "eng": "neighbor",
+      "kor": "이웃 사람",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 715,
+      "eng": "servant",
+      "kor": "하인",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 716,
+      "eng": "hunger",
+      "kor": "굶주림",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 717,
+      "eng": "tomb",
+      "kor": "무덤, 묘",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 718,
+      "eng": "taste",
+      "kor": "맛, 취미",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 719,
+      "eng": "sign",
+      "kor": "신호, 기호",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 720,
+      "eng": "stair",
+      "kor": "계단",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 721,
+      "eng": "trip",
+      "kor": "여행",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 722,
+      "eng": "brain",
+      "kor": "뇌, 두뇌",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 723,
+      "eng": "trumpet",
+      "kor": "나팔, 트럼펫",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 724,
+      "eng": "speech",
+      "kor": "말, 연설",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 725,
+      "eng": "thumb",
+      "kor": "엄지손가락",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 726,
+      "eng": "horn",
+      "kor": "뿔, 경적",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 727,
+      "eng": "chief",
+      "kor": "장(長), 주요한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 728,
+      "eng": "trousers",
+      "kor": "바지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 729,
+      "eng": "prince",
+      "kor": "왕자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 730,
+      "eng": "force",
+      "kor": "힘, 강요하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 731,
+      "eng": "sight",
+      "kor": "광경",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 732,
+      "eng": "space",
+      "kor": "공간, 우주",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 733,
+      "eng": "wool",
+      "kor": "양모",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 734,
+      "eng": "expressway",
+      "kor": "고속도로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 735,
+      "eng": "science",
+      "kor": "과학",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 736,
+      "eng": "examination",
+      "kor": "시험, 조사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 737,
+      "eng": "jar",
+      "kor": "항아리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 738,
+      "eng": "salt",
+      "kor": "소금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 739,
+      "eng": "death",
+      "kor": "죽음, 사망",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 740,
+      "eng": "saw",
+      "kor": "톱",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 741,
+      "eng": "swing",
+      "kor": "그네, 진동",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 742,
+      "eng": "wish",
+      "kor": "소원, 원하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 743,
+      "eng": "grain",
+      "kor": "곡식, 낟알",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 744,
+      "eng": "eraser",
+      "kor": "지우개",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 745,
+      "eng": "alphabet",
+      "kor": "알파벳, 문자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 746,
+      "eng": "shoulder",
+      "kor": "어깨",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 747,
+      "eng": "nephew",
+      "kor": "조카",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 748,
+      "eng": "niece",
+      "kor": "조카딸",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 749,
+      "eng": "library",
+      "kor": "도서관",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 750,
+      "eng": "factory",
+      "kor": "공장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 751,
+      "eng": "cage",
+      "kor": "새장, 우리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 752,
+      "eng": "whole",
+      "kor": "전부",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 753,
+      "eng": "change",
+      "kor": "변화, 교환, 잔돈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 754,
+      "eng": "department",
+      "kor": "부, 국",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 755,
+      "eng": "office",
+      "kor": "사무실",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 756,
+      "eng": "ticket",
+      "kor": "표, 입장권",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 757,
+      "eng": "energy",
+      "kor": "힘, 정력, 활기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 758,
+      "eng": "idea",
+      "kor": "생각, 이념",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 759,
+      "eng": "hospital",
+      "kor": "병원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 760,
+      "eng": "noise",
+      "kor": "소음, 소리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 761,
+      "eng": "sample",
+      "kor": "견본",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 762,
+      "eng": "example",
+      "kor": "예, 보기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 763,
+      "eng": "lesson",
+      "kor": "학과, 교훈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 764,
+      "eng": "plenty",
+      "kor": "풍부",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 765,
+      "eng": "luck",
+      "kor": "행운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 766,
+      "eng": "comedy",
+      "kor": "희극, 코미디",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 767,
+      "eng": "health",
+      "kor": "건강",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 768,
+      "eng": "history",
+      "kor": "역사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 769,
+      "eng": "forest",
+      "kor": "숲",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 770,
+      "eng": "stream",
+      "kor": "흐름, 개울",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 771,
+      "eng": "future",
+      "kor": "미래",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 772,
+      "eng": "state",
+      "kor": "상태, 주, 국가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 773,
+      "eng": "temple",
+      "kor": "절, 사원",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 774,
+      "eng": "dictionary",
+      "kor": "사전",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 775,
+      "eng": "grammar",
+      "kor": "문법",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 776,
+      "eng": "college",
+      "kor": "단과 대학",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 777,
+      "eng": "husband",
+      "kor": "남편",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 778,
+      "eng": "daughter",
+      "kor": "딸",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 779,
+      "eng": "captain",
+      "kor": "선장, 주장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 780,
+      "eng": "booth",
+      "kor": "오두막,",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 781,
+      "eng": "",
+      "kor": "작은 집",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 782,
+      "eng": "iceberg",
+      "kor": "빙산",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 783,
+      "eng": "bubble",
+      "kor": "거품",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 784,
+      "eng": "bottom",
+      "kor": "밑바닥",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 785,
+      "eng": "prize",
+      "kor": "상, 상품",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 786,
+      "eng": "bean",
+      "kor": "콩",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 787,
+      "eng": "race",
+      "kor": "경주, 인종, 민족",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 788,
+      "eng": "engineer",
+      "kor": "기사, 기술자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 789,
+      "eng": "photographer",
+      "kor": "사진사",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 790,
+      "eng": "reason",
+      "kor": "이유, 이성",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 791,
+      "eng": "subway",
+      "kor": "지하도, 지하철",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 792,
+      "eng": "fog",
+      "kor": "안개",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 793,
+      "eng": "answer",
+      "kor": "대답(하다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 794,
+      "eng": "dining room",
+      "kor": "식당",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 795,
+      "eng": "step",
+      "kor": "걸음",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 796,
+      "eng": "heat",
+      "kor": "열, 더위",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 797,
+      "eng": "bone",
+      "kor": "뼈",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 798,
+      "eng": "plant",
+      "kor": "식물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 799,
+      "eng": "lamb",
+      "kor": "새끼 양",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "701 ~ 800",
+      "no": 800,
+      "eng": "rate",
+      "kor": "비율, 속도, 요금",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 801,
+      "eng": "sunrise",
+      "kor": "해돋이, 일출",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 802,
+      "eng": "sunshine",
+      "kor": "햇빛",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 803,
+      "eng": "wedding",
+      "kor": "결혼식",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 804,
+      "eng": "crown",
+      "kor": "왕관",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 805,
+      "eng": "seed",
+      "kor": "씨",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 806,
+      "eng": "coal",
+      "kor": "석탄",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 807,
+      "eng": "comb",
+      "kor": "빗",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 808,
+      "eng": "dream",
+      "kor": "꿈(을 꾸다)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 809,
+      "eng": "sugar",
+      "kor": "설탕",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 810,
+      "eng": "mile",
+      "kor": "마일",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 811,
+      "eng": "flashlight",
+      "kor": "플래시",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 812,
+      "eng": "vegetable",
+      "kor": "채소, 야채",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 813,
+      "eng": "mouse",
+      "kor": "생쥐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 814,
+      "eng": "wood",
+      "kor": "나무, 숲",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 815,
+      "eng": "war",
+      "kor": "전쟁",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 816,
+      "eng": "ground",
+      "kor": "땅, 운동장",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 817,
+      "eng": "belt",
+      "kor": "허리띠, 띠",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 818,
+      "eng": "tourist",
+      "kor": "관광객, 여행자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 819,
+      "eng": "airport",
+      "kor": "공항",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 820,
+      "eng": "passport",
+      "kor": "여권",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 821,
+      "eng": "plate",
+      "kor": "접시",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 822,
+      "eng": "stone",
+      "kor": "돌",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 823,
+      "eng": "downtown",
+      "kor": "상가, 번화가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 824,
+      "eng": "cousin",
+      "kor": "사촌",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 825,
+      "eng": "tooth",
+      "kor": "이, 치아",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 826,
+      "eng": "potato",
+      "kor": "감자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 827,
+      "eng": "blanket",
+      "kor": "담요",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 828,
+      "eng": "creek",
+      "kor": "시냇물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 829,
+      "eng": "nail",
+      "kor": "손톱",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 830,
+      "eng": "letter",
+      "kor": "편지, 문자",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 831,
+      "eng": "date",
+      "kor": "날짜",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 832,
+      "eng": "store",
+      "kor": "가게, 저장()",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 833,
+      "eng": "beggar",
+      "kor": "거지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 834,
+      "eng": "bedside",
+      "kor": "침대 곁",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 835,
+      "eng": "deer",
+      "kor": "사슴",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 836,
+      "eng": "bill",
+      "kor": "계산서, 지폐",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 837,
+      "eng": "doll",
+      "kor": "인형",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 838,
+      "eng": "pepper",
+      "kor": "후추",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 839,
+      "eng": "frog",
+      "kor": "개구리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 840,
+      "eng": "rest",
+      "kor": "휴식, 나머지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 841,
+      "eng": "tower",
+      "kor": "탑",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 842,
+      "eng": "bridge",
+      "kor": "다리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 843,
+      "eng": "cloth",
+      "kor": "천, 직물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 844,
+      "eng": "post",
+      "kor": "우편(물)",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 845,
+      "eng": "snake",
+      "kor": "뱀",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 846,
+      "eng": "job",
+      "kor": "직업, 일",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 847,
+      "eng": "town",
+      "kor": "읍, 도시",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 848,
+      "eng": "fun",
+      "kor": "재미",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 849,
+      "eng": "bathroom",
+      "kor": "욕실",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 850,
+      "eng": "tail",
+      "kor": "꼬리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 851,
+      "eng": "steal",
+      "kor": "훔치다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 852,
+      "eng": "dig",
+      "kor": "파다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 853,
+      "eng": "choose",
+      "kor": "고르다, 선택",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 854,
+      "eng": "receive",
+      "kor": "받다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 855,
+      "eng": "bet",
+      "kor": "(돈을) 걸다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 856,
+      "eng": "hurt",
+      "kor": "상처를 입히다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 857,
+      "eng": "burn",
+      "kor": "타다, 태우다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 858,
+      "eng": "sink",
+      "kor": "가라앉다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 859,
+      "eng": "decide",
+      "kor": "결정, 결심",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 860,
+      "eng": "beg",
+      "kor": "구걸하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 861,
+      "eng": "reply",
+      "kor": "대답하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 862,
+      "eng": "tear",
+      "kor": "찢다, 눈물",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 863,
+      "eng": "flow",
+      "kor": "(넘쳐) 흐르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 864,
+      "eng": "remember",
+      "kor": "기억하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 865,
+      "eng": "appear",
+      "kor": "나타나다, ~ 같다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 866,
+      "eng": "breathe",
+      "kor": "호흡하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 867,
+      "eng": "whistle",
+      "kor": "휘파람을 불다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 868,
+      "eng": "draw",
+      "kor": "끌다, 그리다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 869,
+      "eng": "sound",
+      "kor": "소리가 나다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 870,
+      "eng": "save",
+      "kor": "구하다, 저축하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 871,
+      "eng": "continue",
+      "kor": "계속하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 872,
+      "eng": "check",
+      "kor": "저지, 대조",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 873,
+      "eng": "sail",
+      "kor": "항해하다, 돛",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 874,
+      "eng": "wake",
+      "kor": "깨다, 깨우다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 875,
+      "eng": "agree",
+      "kor": "동의하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 876,
+      "eng": "hang",
+      "kor": "걸다, 매달다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 877,
+      "eng": "record",
+      "kor": "기록하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 878,
+      "eng": "drop",
+      "kor": "떨어지다, 방울",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 879,
+      "eng": "climb",
+      "kor": "(기어) 오르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 880,
+      "eng": "add",
+      "kor": "더하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 881,
+      "eng": "shine",
+      "kor": "빛나다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 882,
+      "eng": "invite",
+      "kor": "초대하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 883,
+      "eng": "join",
+      "kor": "결합, 참가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 884,
+      "eng": "hide",
+      "kor": "숨기다, 숨다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 885,
+      "eng": "bring",
+      "kor": "가져오다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 886,
+      "eng": "wink",
+      "kor": "눈짓하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 887,
+      "eng": "shoot",
+      "kor": "쏘다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 888,
+      "eng": "roll",
+      "kor": "구르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 889,
+      "eng": "pull",
+      "kor": "끌다, 당기다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 890,
+      "eng": "push",
+      "kor": "밀다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 891,
+      "eng": "guess",
+      "kor": "추측하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 892,
+      "eng": "belong",
+      "kor": "~에 속하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 893,
+      "eng": "happen",
+      "kor": "일어나다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 894,
+      "eng": "pick",
+      "kor": "찌르다, 고르다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 895,
+      "eng": "shake",
+      "kor": "흔들다, 떨다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 896,
+      "eng": "fill",
+      "kor": "채우다, 차다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 897,
+      "eng": "fail",
+      "kor": "실패하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 898,
+      "eng": "fight",
+      "kor": "싸우다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 899,
+      "eng": "fear",
+      "kor": "두려워하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "801 ~ 900",
+      "no": 900,
+      "eng": "carry",
+      "kor": "나르다, 운반하다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 901,
+      "eng": "common",
+      "kor": "공통의, 보통의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 902,
+      "eng": "inner",
+      "kor": "안쪽의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 903,
+      "eng": "thirsty",
+      "kor": "목마른",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 904,
+      "eng": "thin",
+      "kor": "얇은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 905,
+      "eng": "gray",
+      "kor": "회색의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 906,
+      "eng": "famous",
+      "kor": "유명한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 907,
+      "eng": "industrial",
+      "kor": "산업의, 공업의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 908,
+      "eng": "silent",
+      "kor": "침묵의, 조용한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 909,
+      "eng": "absent",
+      "kor": "결석한, 없는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 910,
+      "eng": "flat",
+      "kor": "평평한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 911,
+      "eng": "main",
+      "kor": "주요한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 912,
+      "eng": "wild",
+      "kor": "야생의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 913,
+      "eng": "wet",
+      "kor": "젖은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 914,
+      "eng": "blind",
+      "kor": "눈 먼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 915,
+      "eng": "dumb",
+      "kor": "벙어리의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 916,
+      "eng": "sharp",
+      "kor": "날카로운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 917,
+      "eng": "terrible",
+      "kor": "끔직한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 918,
+      "eng": "grand",
+      "kor": "웅장한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 919,
+      "eng": "homesick",
+      "kor": "향수병의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 920,
+      "eng": "bound",
+      "kor": "~행(行)의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 921,
+      "eng": "fat",
+      "kor": "살찐, 지방",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 922,
+      "eng": "strange",
+      "kor": "이상한, 낯선",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 923,
+      "eng": "pleasant",
+      "kor": "즐거운, 유쾌한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 924,
+      "eng": "handsome",
+      "kor": "잘생긴",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 925,
+      "eng": "equal",
+      "kor": "같은, 동등한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 926,
+      "eng": "dear",
+      "kor": "친애하는, 값비싼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 927,
+      "eng": "sweet",
+      "kor": "달콤한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 928,
+      "eng": "dull",
+      "kor": "무딘, 우둔한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 929,
+      "eng": "weak",
+      "kor": "약한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 930,
+      "eng": "bright",
+      "kor": "밝은, 영리한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 931,
+      "eng": "honest",
+      "kor": "정직한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 932,
+      "eng": "elder",
+      "kor": "손위의, 연상의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 933,
+      "eng": "such",
+      "kor": "그러한, 이러한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 934,
+      "eng": "able",
+      "kor": "~ 할 수 있는",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 935,
+      "eng": "loud",
+      "kor": "시끄러운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 936,
+      "eng": "simple",
+      "kor": "단순한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 937,
+      "eng": "clever",
+      "kor": "영리한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 938,
+      "eng": "proud",
+      "kor": "자랑스러운",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 939,
+      "eng": "foolish",
+      "kor": "어리석은",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 940,
+      "eng": "possible",
+      "kor": "가능한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 941,
+      "eng": "enough",
+      "kor": "충분한, 충분히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 942,
+      "eng": "wise",
+      "kor": "현명한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 943,
+      "eng": "wide",
+      "kor": "넓은, 널리",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 944,
+      "eng": "successful",
+      "kor": "성공한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 945,
+      "eng": "clear",
+      "kor": "맑은, 명백한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 946,
+      "eng": "clean",
+      "kor": "깨끗한",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 947,
+      "eng": "deep",
+      "kor": "깊은, 깊게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 948,
+      "eng": "own",
+      "kor": "자기 자신의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 949,
+      "eng": "cheap",
+      "kor": "값싼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 950,
+      "eng": "certain",
+      "kor": "확실한, 어떤",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 951,
+      "eng": "however",
+      "kor": "아무리~해도, 그러나",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 952,
+      "eng": "politely",
+      "kor": "공손히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 953,
+      "eng": "rudely",
+      "kor": "무례하게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 954,
+      "eng": "further",
+      "kor": "더 멀리, 게다가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 955,
+      "eng": "frankly",
+      "kor": "솔직히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 956,
+      "eng": "properly",
+      "kor": "적당히, 올바르게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 957,
+      "eng": "hastily",
+      "kor": "급히, 서둘러서",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 958,
+      "eng": "rather",
+      "kor": "오히려, 약간",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 959,
+      "eng": "together",
+      "kor": "함께",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 960,
+      "eng": "altogether",
+      "kor": "전혀, 대체로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 961,
+      "eng": "suddenly",
+      "kor": "갑자기",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 962,
+      "eng": "mostly",
+      "kor": "대게, 대부분",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 963,
+      "eng": "correctly",
+      "kor": "정확히",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 964,
+      "eng": "ahead",
+      "kor": "앞에, 앞으로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 965,
+      "eng": "instead",
+      "kor": "대신에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 966,
+      "eng": "quite",
+      "kor": "매우, 아주",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 967,
+      "eng": "nearly",
+      "kor": "거의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 968,
+      "eng": "badly",
+      "kor": "나쁘게, 매우",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 969,
+      "eng": "almost",
+      "kor": "거의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 970,
+      "eng": "exactly",
+      "kor": "정확히, 꼭",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 971,
+      "eng": "apart",
+      "kor": "떨어져서",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 972,
+      "eng": "afterward",
+      "kor": "후에, 나중에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 973,
+      "eng": "later",
+      "kor": "후에, 나중에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 974,
+      "eng": "maybe",
+      "kor": "아마",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 975,
+      "eng": "perhaps",
+      "kor": "아마",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 976,
+      "eng": "probably",
+      "kor": "아마",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 977,
+      "eng": "either",
+      "kor": "어느 한쪽의",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 978,
+      "eng": "neither",
+      "kor": "~도 아니다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 979,
+      "eng": "besides",
+      "kor": "그 밖에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 980,
+      "eng": "anyway",
+      "kor": "어쨌든, 아무튼",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 981,
+      "eng": "sometime",
+      "kor": "언젠가",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 982,
+      "eng": "forward",
+      "kor": "앞으로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 983,
+      "eng": "since",
+      "kor": "이래로, 때문에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 984,
+      "eng": "once",
+      "kor": "한 번",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 985,
+      "eng": "twice",
+      "kor": "두 번",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 986,
+      "eng": "indeed",
+      "kor": "참으로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 987,
+      "eng": "seldom",
+      "kor": "좀처럼 ~않다",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 988,
+      "eng": "upside-down",
+      "kor": "거꾸로",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 989,
+      "eng": "whether",
+      "kor": "~인지 어떤지",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 990,
+      "eng": "unless",
+      "kor": "~하지 않으면",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 991,
+      "eng": "though",
+      "kor": "비록 ~이지만",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 992,
+      "eng": "while",
+      "kor": "~하는 동안, 반면",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 993,
+      "eng": "usually",
+      "kor": "보통, 대게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 994,
+      "eng": "safely",
+      "kor": "안전하게",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 995,
+      "eng": "along",
+      "kor": "~을 따라서",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 996,
+      "eng": "without",
+      "kor": "~ 없이",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 997,
+      "eng": "behind",
+      "kor": "~의 뒤에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 998,
+      "eng": "beyond",
+      "kor": "~의 저쪽에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 999,
+      "eng": "below",
+      "kor": "~의 아래에",
+      "done": false,
+      "show": false
+    },
+    {
+      "range": "901 ~ 1000",
+      "no": 1000,
+      "eng": "toward",
+      "kor": "~ 쪽으로",
+      "done": false,
+      "show": false
+    }
+  ]
+}

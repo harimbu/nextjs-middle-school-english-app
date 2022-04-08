@@ -1,59 +1,36 @@
 import { useState, useEffect } from 'react'
-import { Listbox } from '@headlessui/react'
-import { db } from '../firebase'
-import { collection, doc, onSnapshot, orderBy, query, where } from 'firebase/firestore'
 import Word from './Word'
+import DB from '../db/words.json'
+import { Listbox, Transition } from '@headlessui/react'
 import { CheckIcon, SelectorIcon } from '@heroicons/react/solid'
 
 export default function WordList() {
   const [words, setWords] = useState([])
-  const [range, setRange] = useState([])
   const [selected, setSelected] = useState('1 ~ 100')
 
-  useEffect(() => {
-    onSnapshot(doc(db, 'range', 'id'), doc => {
-      setRange(doc.data().text)
-    })
-  }, [])
+  const range = [
+    '1 ~ 100',
+    '101 ~ 200',
+    '201 ~ 300',
+    '301 ~ 400',
+    '401 ~ 500',
+    '501 ~ 600',
+    '601 ~ 700',
+    '801 ~ 900',
+    '901 ~ 1000'
+  ]
 
   useEffect(() => {
-    if (selected === '1 ~ 100') {
-      getFirstDate()
-      return
-    }
-    const q = query(collection(db, 'words'), where('range', '==', selected))
-    onSnapshot(q, snapshot => {
-      setWords(
-        snapshot.docs.map(doc => ({
-          ...doc.data(),
-          id: doc.id
-        }))
-      )
-    })
+    const english = DB.words.filter(word => word.range === selected)
+    setWords(english)
   }, [selected])
-
-  useEffect(() => {
-    getFirstDate()
-  }, [])
-
-  const getFirstDate = () => {
-    const q = query(collection(db, 'words'), where('range', '==', '1 ~ 100'))
-    onSnapshot(q, snapshot => {
-      setWords(
-        snapshot.docs.map(doc => ({
-          ...doc.data(),
-          id: doc.id
-        }))
-      )
-    })
-  }
 
   return (
     <>
-      <div className="p-4 max-w-sm m-auto">
+      <div className="max-w-sm m-auto mb-3">
         <Listbox value={selected} onChange={setSelected}>
           <div className="relative">
-            <Listbox.Button className="relative w-full py-3 pl-3 pr-10 text-left bg-white dark:bg-gray-700 rounded-lg cursor-default shadow-md">
+            <Listbox.Button className="relative w-full py-3 pl-3 pr-10 text-left text-sm bg-secondry dark:bg-secondry2 rounded-lg cursor-default shadow-md">
               <span className="block truncate">{selected}</span>
               <span className="absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
                 <SelectorIcon className="w-5 h-5 text-gray-400" aria-hidden="true" />
@@ -65,7 +42,7 @@ export default function WordList() {
                 <Listbox.Option
                   key={item}
                   className={({ active }) =>
-                    `cursor-default select-none relative py-2 pl-10 pr-4 ${
+                    `cursor-default select-none relative py-2 pl-10 pr-4 text-sm ${
                       active ? 'text-green-600 bg-green-100' : 'text-gray-600'
                     }`
                   }
@@ -89,15 +66,7 @@ export default function WordList() {
       </div>
       <div className="max-w-md m-auto">
         {words.map(word => (
-          <Word
-            key={word.id}
-            id={word.id}
-            no={word.no}
-            eng={word.eng}
-            kor={word.kor}
-            done={word.done}
-            show={word.show}
-          />
+          <Word key={word.no} eng={word.eng} kor={word.kor} done={word.done} show={word.show} />
         ))}
       </div>
     </>

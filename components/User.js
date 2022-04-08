@@ -1,51 +1,35 @@
-import { UserCircleIcon } from '@heroicons/react/solid'
-import { auth, db } from '../firebase'
-import { GoogleAuthProvider, onAuthStateChanged, signInWithPopup, signOut } from 'firebase/auth'
-import { useRecoilState } from 'recoil'
-import { loginState } from '../store'
-import { setDoc, doc } from 'firebase/firestore'
-import Link from 'next/link'
+import { useEffect, useState } from 'react'
+import { auth } from '../firebase'
+import { onAuthStateChanged } from 'firebase/auth'
 
 export default function User() {
-  const [userEmail, setUserEmail] = useRecoilState(loginState)
-  const provider = new GoogleAuthProvider()
+  const [userEmail, setUserEmail] = useState(null)
+  const [userURL, setUserURL] = useState(null)
 
-  const handleLogin = () => {
-    signInWithPopup(auth, provider).then(result => {
-      const data = {
-        name: result.user.displayName,
-        email: result.user.email,
-        uid: result.user.uid
+  useEffect(() => {
+    onAuthStateChanged(auth, user => {
+      if (user) {
+        setUserEmail(user.email)
+        setUserURL(user.photoURL)
+      } else {
+        setUserEmail(null)
+        setUserURL(null)
       }
-      setDoc(doc(db, 'users', result.user.email), data)
     })
-  }
-
-  const handleLogout = () => {
-    signOut(auth)
-  }
-
-  onAuthStateChanged(auth, user => {
-    if (user) {
-      setUserEmail(user.email)
-    } else {
-      setUserEmail(null)
-    }
-  })
+  }, [])
 
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex flex-col items-center">
       {userEmail ? (
-        <div className="flex items-center">
-          <Link href="/dashboard">
-            <a>
-              <button className="text-xs py-1 px-3 rounded-full bg-white text-black">대시보드</button>
-            </a>
-          </Link>
-          <UserCircleIcon className="h-7 w-7 text-black" onClick={() => handleLogout()} />
+        <div className="flex flex-col items-center my-8">
+          <img src={userURL} width={36} alt="user" className="rounded-full mb-1" />
+          <p className="text-sm text-gray-200">{userEmail}</p>
         </div>
       ) : (
-        <UserCircleIcon className="h-7 w-7 text-white" onClick={() => handleLogin()} />
+        <div className="flex flex-col items-center my-6">
+          <p className="text-sm">중학필수</p>
+          <p className="font-bold">영단어 1000</p>
+        </div>
       )}
     </div>
   )

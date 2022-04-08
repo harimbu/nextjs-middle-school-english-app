@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <link rel="icon" type="image/x-icon" href="/favicon.png" />
       </Head>
-      <body className="bg-bg">
+      <body className="bg-primary dark:bg-primary2">
         <Main />
         <NextScript />
       </body>

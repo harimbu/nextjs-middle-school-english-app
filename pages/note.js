@@ -1,11 +1,11 @@
 import React from 'react'
-import MyTop from '../components/MyTop'
+import Top from '../components/Top'
 import MyWordList from '../components/MyWordList'
 
-export default function Dashboard() {
+export default function Note() {
   return (
-    <div>
-      <MyTop />
+    <div className="px-5 py-6">
+      <Top />
       <MyWordList />
     </div>
   )

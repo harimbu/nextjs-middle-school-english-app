@@ -1,3 +1,27 @@
+## nextjs / firebase hosting
+
+1. package.json
+
+```
+ "scripts": {
+    ...
+    "build": "next build && next export",
+    ...
+  }
+```
+
+out 폴더 ->
+
+```
+npm install -g firebase-tools
+
+firebase login
+
+firebase init
+
+firebase deploy
+```
+
 ## tailwind dark mode
 
 1. tailwind.config.js
