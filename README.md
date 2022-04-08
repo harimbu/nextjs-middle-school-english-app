@@ -1,3 +1,24 @@
+## 파이어베이스 호스팅 새로고침시 404
+
+### firebase.json
+
+```
+{
+  "hosting": {
+    "public": "out",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "cleanUrls": true,
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
+
+```
+
 ## nextjs / firebase hosting
 
 1. package.json
